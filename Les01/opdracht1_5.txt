@@ -1,0 +1,14 @@
+favorieten = ['Logic']
+
+favorieten.append('Fresku')
+
+favorieten
+['Logic', 'Fresku']
+
+favorieten.pop()
+'Fresku'
+
+favorieten.append('Tentacion')
+
+favorieten
+['Logic', 'Tentacion']

@@ -1,0 +1,5 @@
+letters= ('A', 'C', 'B', 'B', 'C', 'A', 'C', 'C', 'B')
+x=letters.count ('A')
+y=letters.count ('B')
+z=letters.count ('C')
+print ([x, y ,z])

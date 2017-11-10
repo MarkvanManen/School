@@ -1,0 +1,16 @@
+a = 6
+b = 7
+c = a+b /2
+
+c
+9.5
+
+inventaris = ['papier', 'nietjes', 'pennen']
+
+voornaam = 'Mark'
+tussenvoegsel = 'van'
+achternaam = 'Manen'
+mijnnaam = voornaam + ' ' + tussenvoegsel + ' ' + achternaam
+
+mijnnaam
+'Mark van Manen'
